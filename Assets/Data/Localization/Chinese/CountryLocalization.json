@@ -1,0 +1,968 @@
+{
+    "entries": [
+        {
+            "id": "countryCode3.ATC",
+            "text": "阿什莫尔和卡地亚群岛"
+        },
+        {
+            "id": "countryCode3.AFG",
+            "text": "阿富汗"
+        },
+        {
+            "id": "countryCode3.ALD",
+            "text": "奥兰"
+        },
+        {
+            "id": "countryCode3.ALB",
+            "text": "阿尔巴尼亚"
+        },
+        {
+            "id": "countryCode3.DZA",
+            "text": "阿尔及利亚"
+        },
+        {
+            "id": "countryCode3.ASM",
+            "text": "美属萨摩亚"
+        },
+        {
+            "id": "countryCode3.AND",
+            "text": "安道尔"
+        },
+        {
+            "id": "countryCode3.AGO",
+            "text": "安哥拉"
+        },
+        {
+            "id": "countryCode3.AIA",
+            "text": "安圭拉"
+        },
+        {
+            "id": "countryCode3.ATA",
+            "text": "南极洲"
+        },
+        {
+            "id": "countryCode3.ATG",
+            "text": "安提瓜和巴布达"
+        },
+        {
+            "id": "countryCode3.ARG",
+            "text": "阿根廷"
+        },
+        {
+            "id": "countryCode3.ARM",
+            "text": "亚美尼亚"
+        },
+        {
+            "id": "countryCode3.ABW",
+            "text": "阿鲁巴"
+        },
+        {
+            "id": "countryCode3.AUS",
+            "text": "澳大利亚"
+        },
+        {
+            "id": "countryCode3.AUT",
+            "text": "奥地利"
+        },
+        {
+            "id": "countryCode3.AZE",
+            "text": "阿塞拜疆"
+        },
+        {
+            "id": "countryCode3.BHS",
+            "text": "巴哈马"
+        },
+        {
+            "id": "countryCode3.BHR",
+            "text": "巴林"
+        },
+        {
+            "id": "countryCode3.BGD",
+            "text": "孟加拉国"
+        },
+        {
+            "id": "countryCode3.BRB",
+            "text": "巴巴多斯"
+        },
+        {
+            "id": "countryCode3.BLR",
+            "text": "白俄罗斯"
+        },
+        {
+            "id": "countryCode3.BEL",
+            "text": "比利时"
+        },
+        {
+            "id": "countryCode3.BLZ",
+            "text": "伯利兹"
+        },
+        {
+            "id": "countryCode3.BEN",
+            "text": "贝宁"
+        },
+        {
+            "id": "countryCode3.BMU",
+            "text": "百慕大"
+        },
+        {
+            "id": "countryCode3.BTN",
+            "text": "不丹"
+        },
+        {
+            "id": "countryCode3.BOL",
+            "text": "玻利维亚"
+        },
+        {
+            "id": "countryCode3.BIH",
+            "text": "波斯尼亚和黑塞哥维那"
+        },
+        {
+            "id": "countryCode3.BWA",
+            "text": "博茨瓦纳"
+        },
+        {
+            "id": "countryCode3.BRA",
+            "text": "巴西"
+        },
+        {
+            "id": "countryCode3.VGB",
+            "text": "英属维尔京群岛"
+        },
+        {
+            "id": "countryCode3.BRN",
+            "text": "文莱"
+        },
+        {
+            "id": "countryCode3.BGR",
+            "text": "保加利亚"
+        },
+        {
+            "id": "countryCode3.BFA",
+            "text": "布基纳法索"
+        },
+        {
+            "id": "countryCode3.BDI",
+            "text": "布隆迪"
+        },
+        {
+            "id": "countryCode3.CAF",
+            "text": "中非共和国"
+        },
+        {
+            "id": "countryCode3.CPV",
+            "text": "佛得角"
+        },
+        {
+            "id": "countryCode3.KHM",
+            "text": "柬埔寨"
+        },
+        {
+            "id": "countryCode3.CMR",
+            "text": "喀麦隆"
+        },
+        {
+            "id": "countryCode3.CAN",
+            "text": "加拿大"
+        },
+        {
+            "id": "countryCode3.CYM",
+            "text": "开曼群岛"
+        },
+        {
+            "id": "countryCode3.TCD",
+            "text": "乍得"
+        },
+        {
+            "id": "countryCode3.CHL",
+            "text": "智利"
+        },
+        {
+            "id": "countryCode3.CHN",
+            "text": "中国"
+        },
+        {
+            "id": "countryCode3.COL",
+            "text": "哥伦比亚"
+        },
+        {
+            "id": "countryCode3.COM",
+            "text": "科摩罗"
+        },
+        {
+            "id": "countryCode3.COG",
+            "text": "刚果"
+        },
+        {
+            "id": "countryCode3.COK",
+            "text": "库克群岛"
+        },
+        {
+            "id": "countryCode3.CRI",
+            "text": "哥斯达黎加"
+        },
+        {
+            "id": "countryCode3.CIV",
+            "text": "象牙海岸"
+        },
+        {
+            "id": "countryCode3.HRV",
+            "text": "克罗地亚"
+        },
+        {
+            "id": "countryCode3.CUB",
+            "text": "古巴"
+        },
+        {
+            "id": "countryCode3.CUW",
+            "text": "库拉索"
+        },
+        {
+            "id": "countryCode3.CYP",
+            "text": "塞浦路斯"
+        },
+        {
+            "id": "countryCode3.CZE",
+            "text": "捷克"
+        },
+        {
+            "id": "countryCode3.COD",
+            "text": "刚果民主共和国"
+        },
+        {
+            "id": "countryCode3.DNK",
+            "text": "丹麦"
+        },
+        {
+            "id": "countryCode3.DJI",
+            "text": "吉布提"
+        },
+        {
+            "id": "countryCode3.DMA",
+            "text": "多米尼克"
+        },
+        {
+            "id": "countryCode3.DOM",
+            "text": "多米尼加共和国"
+        },
+        {
+            "id": "countryCode3.ECU",
+            "text": "厄瓜多尔"
+        },
+        {
+            "id": "countryCode3.EGY",
+            "text": "埃及"
+        },
+        {
+            "id": "countryCode3.SLV",
+            "text": "萨尔瓦多"
+        },
+        {
+            "id": "countryCode3.GNQ",
+            "text": "赤道几内亚"
+        },
+        {
+            "id": "countryCode3.ERI",
+            "text": "厄立特里亚"
+        },
+        {
+            "id": "countryCode3.EST",
+            "text": "爱沙尼亚"
+        },
+        {
+            "id": "countryCode3.SWZ",
+            "text": "斯威士兰"
+        },
+        {
+            "id": "countryCode3.ETH",
+            "text": "埃塞俄比亚"
+        },
+        {
+            "id": "countryCode3.FRO",
+            "text": "法罗群岛"
+        },
+        {
+            "id": "countryCode3.FLK",
+            "text": "福克兰群岛"
+        },
+        {
+            "id": "countryCode3.FJI",
+            "text": "斐济"
+        },
+        {
+            "id": "countryCode3.FIN",
+            "text": "芬兰"
+        },
+        {
+            "id": "countryCode3.ATF",
+            "text": "法属南方土地"
+        },
+        {
+            "id": "countryCode3.FRA",
+            "text": "法国"
+        },
+        {
+            "id": "countryCode3.PYF",
+            "text": "法属波利尼西亚"
+        },
+        {
+            "id": "countryCode3.GAB",
+            "text": "加蓬"
+        },
+        {
+            "id": "countryCode3.GMB",
+            "text": "冈比亚"
+        },
+        {
+            "id": "countryCode3.GEO",
+            "text": "格鲁吉亚"
+        },
+        {
+            "id": "countryCode3.DEU",
+            "text": "德国"
+        },
+        {
+            "id": "countryCode3.GHA",
+            "text": "加纳"
+        },
+        {
+            "id": "countryCode3.GRC",
+            "text": "希腊"
+        },
+        {
+            "id": "countryCode3.GRL",
+            "text": "格陵兰"
+        },
+        {
+            "id": "countryCode3.GRD",
+            "text": "格林纳达"
+        },
+        {
+            "id": "countryCode3.GUM",
+            "text": "关岛"
+        },
+        {
+            "id": "countryCode3.GTM",
+            "text": "危地马拉"
+        },
+        {
+            "id": "countryCode3.GGY",
+            "text": "根西岛"
+        },
+        {
+            "id": "countryCode3.GIN",
+            "text": "几内亚"
+        },
+        {
+            "id": "countryCode3.GNB",
+            "text": "几内亚比绍"
+        },
+        {
+            "id": "countryCode3.GUY",
+            "text": "圭亚那"
+        },
+        {
+            "id": "countryCode3.HMD",
+            "text": "赫德和麦克唐纳群岛"
+        },
+        {
+            "id": "countryCode3.HTI",
+            "text": "海地"
+        },
+        {
+            "id": "countryCode3.HND",
+            "text": "洪都拉斯"
+        },
+        {
+            "id": "countryCode3.HKG",
+            "text": "中国香港"
+        },
+        {
+            "id": "countryCode3.HUN",
+            "text": "匈牙利"
+        },
+        {
+            "id": "countryCode3.IOT",
+            "text": "英属印度洋领地"
+        },
+        {
+            "id": "countryCode3.ISL",
+            "text": "冰岛"
+        },
+        {
+            "id": "countryCode3.IND",
+            "text": "印度"
+        },
+        {
+            "id": "countryCode3.IOA",
+            "text": "印度洋领地"
+        },
+        {
+            "id": "countryCode3.IDN",
+            "text": "印度尼西亚"
+        },
+        {
+            "id": "countryCode3.IRN",
+            "text": "伊朗"
+        },
+        {
+            "id": "countryCode3.IRQ",
+            "text": "伊拉克"
+        },
+        {
+            "id": "countryCode3.IRL",
+            "text": "爱尔兰"
+        },
+        {
+            "id": "countryCode3.IMN",
+            "text": "马恩岛"
+        },
+        {
+            "id": "countryCode3.ISR",
+            "text": "以色列"
+        },
+        {
+            "id": "countryCode3.ITA",
+            "text": "意大利"
+        },
+        {
+            "id": "countryCode3.JAM",
+            "text": "牙买加"
+        },
+        {
+            "id": "countryCode3.JPN",
+            "text": "日本"
+        },
+        {
+            "id": "countryCode3.JEY",
+            "text": "泽西岛"
+        },
+        {
+            "id": "countryCode3.JOR",
+            "text": "约旦"
+        },
+        {
+            "id": "countryCode3.KAS",
+            "text": "克什米尔"
+        },
+        {
+            "id": "countryCode3.KAZ",
+            "text": "哈萨克斯坦"
+        },
+        {
+            "id": "countryCode3.KEN",
+            "text": "肯尼亚"
+        },
+        {
+            "id": "countryCode3.KIR",
+            "text": "基里巴斯"
+        },
+        {
+            "id": "countryCode3.KOS",
+            "text": "科索沃"
+        },
+        {
+            "id": "countryCode3.KWT",
+            "text": "科威特"
+        },
+        {
+            "id": "countryCode3.KGZ",
+            "text": "吉尔吉斯斯坦"
+        },
+        {
+            "id": "countryCode3.LAO",
+            "text": "老挝"
+        },
+        {
+            "id": "countryCode3.LVA",
+            "text": "拉脱维亚"
+        },
+        {
+            "id": "countryCode3.LBN",
+            "text": "黎巴嫩"
+        },
+        {
+            "id": "countryCode3.LSO",
+            "text": "莱索托"
+        },
+        {
+            "id": "countryCode3.LBR",
+            "text": "利比里亚"
+        },
+        {
+            "id": "countryCode3.LBY",
+            "text": "利比亚"
+        },
+        {
+            "id": "countryCode3.LIE",
+            "text": "列支敦士登"
+        },
+        {
+            "id": "countryCode3.LTU",
+            "text": "立陶宛"
+        },
+        {
+            "id": "countryCode3.LUX",
+            "text": "卢森堡"
+        },
+        {
+            "id": "countryCode3.MAC",
+            "text": "中国澳门"
+        },
+        {
+            "id": "countryCode3.MKD",
+            "text": "马其顿"
+        },
+        {
+            "id": "countryCode3.MDG",
+            "text": "马达加斯加"
+        },
+        {
+            "id": "countryCode3.MWI",
+            "text": "马拉维"
+        },
+        {
+            "id": "countryCode3.MYS",
+            "text": "马来西亚"
+        },
+        {
+            "id": "countryCode3.MDV",
+            "text": "马尔代夫"
+        },
+        {
+            "id": "countryCode3.MLI",
+            "text": "马里"
+        },
+        {
+            "id": "countryCode3.MLT",
+            "text": "马耳他"
+        },
+        {
+            "id": "countryCode3.MHL",
+            "text": "马绍尔群岛"
+        },
+        {
+            "id": "countryCode3.MRT",
+            "text": "毛里塔尼亚"
+        },
+        {
+            "id": "countryCode3.MUS",
+            "text": "毛里求斯"
+        },
+        {
+            "id": "countryCode3.MEX",
+            "text": "墨西哥"
+        },
+        {
+            "id": "countryCode3.FSM",
+            "text": "密克罗尼西亚"
+        },
+        {
+            "id": "countryCode3.MDA",
+            "text": "摩尔多瓦"
+        },
+        {
+            "id": "countryCode3.MCO",
+            "text": "摩纳哥"
+        },
+        {
+            "id": "countryCode3.MNG",
+            "text": "蒙古"
+        },
+        {
+            "id": "countryCode3.MNE",
+            "text": "黑山"
+        },
+        {
+            "id": "countryCode3.MSR",
+            "text": "蒙特塞拉特"
+        },
+        {
+            "id": "countryCode3.MAR",
+            "text": "摩洛哥"
+        },
+        {
+            "id": "countryCode3.MOZ",
+            "text": "莫桑比克"
+        },
+        {
+            "id": "countryCode3.MMR",
+            "text": "缅甸"
+        },
+        {
+            "id": "countryCode3.MNP",
+            "text": "北马里亚纳群岛"
+        },
+        {
+            "id": "countryCode3.NAM",
+            "text": "纳米比亚"
+        },
+        {
+            "id": "countryCode3.NRU",
+            "text": "瑙鲁"
+        },
+        {
+            "id": "countryCode3.NPL",
+            "text": "尼泊尔"
+        },
+        {
+            "id": "countryCode3.NLD",
+            "text": "荷兰"
+        },
+        {
+            "id": "countryCode3.NCL",
+            "text": "新喀里多尼亚"
+        },
+        {
+            "id": "countryCode3.NZL",
+            "text": "新西兰"
+        },
+        {
+            "id": "countryCode3.NIC",
+            "text": "尼加拉瓜"
+        },
+        {
+            "id": "countryCode3.NER",
+            "text": "尼日尔"
+        },
+        {
+            "id": "countryCode3.NGA",
+            "text": "尼日利亚"
+        },
+        {
+            "id": "countryCode3.NIU",
+            "text": "纽埃岛(新西兰)"
+        },
+        {
+            "id": "countryCode3.NFK",
+            "text": "诺福克岛"
+        },
+        {
+            "id": "countryCode3.PRK",
+            "text": "朝鲜"
+        },
+        {
+            "id": "countryCode3.CYN",
+            "text": "北塞浦路斯"
+        },
+        {
+            "id": "countryCode3.NOR",
+            "text": "挪威"
+        },
+        {
+            "id": "countryCode3.OMN",
+            "text": "阿曼"
+        },
+        {
+            "id": "countryCode3.PAK",
+            "text": "巴基斯坦"
+        },
+        {
+            "id": "countryCode3.PLW",
+            "text": "帕劳"
+        },
+        {
+            "id": "countryCode3.PSX",
+            "text": "巴勒斯坦"
+        },
+        {
+            "id": "countryCode3.PAN",
+            "text": "巴拿马"
+        },
+        {
+            "id": "countryCode3.PNG",
+            "text": "巴布亚新几内亚"
+        },
+        {
+            "id": "countryCode3.PRY",
+            "text": "巴拉圭"
+        },
+        {
+            "id": "countryCode3.PER",
+            "text": "秘鲁"
+        },
+        {
+            "id": "countryCode3.PHL",
+            "text": "菲律宾"
+        },
+        {
+            "id": "countryCode3.PCN",
+            "text": "皮特凯恩群岛"
+        },
+        {
+            "id": "countryCode3.POL",
+            "text": "波兰"
+        },
+        {
+            "id": "countryCode3.PRT",
+            "text": "葡萄牙"
+        },
+        {
+            "id": "countryCode3.PRI",
+            "text": "波多黎各"
+        },
+        {
+            "id": "countryCode3.QAT",
+            "text": "卡塔尔"
+        },
+        {
+            "id": "countryCode3.ROU",
+            "text": "罗马尼亚"
+        },
+        {
+            "id": "countryCode3.RUS",
+            "text": "俄罗斯"
+        },
+        {
+            "id": "countryCode3.RWA",
+            "text": "卢旺达"
+        },
+        {
+            "id": "countryCode3.SGS",
+            "text": "南乔治亚和桑威奇群岛"
+        },
+        {
+            "id": "countryCode3.STP",
+            "text": "圣多美和普林西比"
+        },
+        {
+            "id": "countryCode3.SHN",
+            "text": "圣赫勒拿"
+        },
+        {
+            "id": "countryCode3.LCA",
+            "text": "圣卢西亚"
+        },
+        {
+            "id": "countryCode3.WSM",
+            "text": "萨摩亚"
+        },
+        {
+            "id": "countryCode3.SMR",
+            "text": "圣马力诺"
+        },
+        {
+            "id": "countryCode3.SAU",
+            "text": "沙特阿拉伯"
+        },
+        {
+            "id": "countryCode3.SEN",
+            "text": "塞内加尔"
+        },
+        {
+            "id": "countryCode3.SRB",
+            "text": "塞尔维亚"
+        },
+        {
+            "id": "countryCode3.SYC",
+            "text": "塞舌尔"
+        },
+        {
+            "id": "countryCode3.SLE",
+            "text": "塞拉利昂"
+        },
+        {
+            "id": "countryCode3.SGP",
+            "text": "新加坡"
+        },
+        {
+            "id": "countryCode3.SXM",
+            "text": "圣马丁岛"
+        },
+        {
+            "id": "countryCode3.SVK",
+            "text": "斯洛伐克"
+        },
+        {
+            "id": "countryCode3.SVN",
+            "text": "斯洛文尼亚"
+        },
+        {
+            "id": "countryCode3.SLB",
+            "text": "所罗门群岛"
+        },
+        {
+            "id": "countryCode3.SOM",
+            "text": "索马里"
+        },
+        {
+            "id": "countryCode3.SOL",
+            "text": "索马里兰"
+        },
+        {
+            "id": "countryCode3.ZAF",
+            "text": "南非"
+        },
+        {
+            "id": "countryCode3.KOR",
+            "text": "韩国"
+        },
+        {
+            "id": "countryCode3.SSD",
+            "text": "南苏丹"
+        },
+        {
+            "id": "countryCode3.ESP",
+            "text": "西班牙"
+        },
+        {
+            "id": "countryCode3.LKA",
+            "text": "斯里兰卡"
+        },
+        {
+            "id": "countryCode3.SPM",
+            "text": "圣皮埃尔和密克隆"
+        },
+        {
+            "id": "countryCode3.VCT",
+            "text": "圣文森特和格林纳丁斯"
+        },
+        {
+            "id": "countryCode3.KNA",
+            "text": "圣基茨和尼维斯"
+        },
+        {
+            "id": "countryCode3.BLM",
+            "text": "圣巴泰勒米"
+        },
+        {
+            "id": "countryCode3.MAF",
+            "text": "圣马丁"
+        },
+        {
+            "id": "countryCode3.SDN",
+            "text": "苏丹"
+        },
+        {
+            "id": "countryCode3.SUR",
+            "text": "苏里南"
+        },
+        {
+            "id": "countryCode3.SWE",
+            "text": "瑞典"
+        },
+        {
+            "id": "countryCode3.CHE",
+            "text": "瑞士"
+        },
+        {
+            "id": "countryCode3.SYR",
+            "text": "叙利亚"
+        },
+        {
+            "id": "countryCode3.TCA",
+            "text": "特克斯和凯科斯群岛"
+        },
+        {
+            "id": "countryCode3.TWN",
+            "text": "中国台湾"
+        },
+        {
+            "id": "countryCode3.TJK",
+            "text": "塔吉克斯坦"
+        },
+        {
+            "id": "countryCode3.TZA",
+            "text": "坦桑尼亚"
+        },
+        {
+            "id": "countryCode3.THA",
+            "text": "泰国"
+        },
+        {
+            "id": "countryCode3.TLS",
+            "text": "东帝汶"
+        },
+        {
+            "id": "countryCode3.TGO",
+            "text": "多哥"
+        },
+        {
+            "id": "countryCode3.TON",
+            "text": "汤加"
+        },
+        {
+            "id": "countryCode3.TTO",
+            "text": "特立尼达和多巴哥"
+        },
+        {
+            "id": "countryCode3.TUN",
+            "text": "突尼斯"
+        },
+        {
+            "id": "countryCode3.TUR",
+            "text": "土耳其"
+        },
+        {
+            "id": "countryCode3.TKM",
+            "text": "土库曼斯坦"
+        },
+        {
+            "id": "countryCode3.ARE",
+            "text": "阿拉伯联合酋长国"
+        },
+        {
+            "id": "countryCode3.VIR",
+            "text": "美属维尔京群岛"
+        },
+        {
+            "id": "countryCode3.UGA",
+            "text": "乌干达"
+        },
+        {
+            "id": "countryCode3.UKR",
+            "text": "乌克兰"
+        },
+        {
+            "id": "countryCode3.GBR",
+            "text": "英国"
+        },
+        {
+            "id": "countryCode3.USA",
+            "text": "美国"
+        },
+        {
+            "id": "countryCode3.URY",
+            "text": "乌拉圭"
+        },
+        {
+            "id": "countryCode3.UZB",
+            "text": "乌兹别克斯坦"
+        },
+        {
+            "id": "countryCode3.VUT",
+            "text": "瓦努阿图"
+        },
+        {
+            "id": "countryCode3.VAT",
+            "text": "梵蒂冈"
+        },
+        {
+            "id": "countryCode3.VEN",
+            "text": "委内瑞拉"
+        },
+        {
+            "id": "countryCode3.VNM",
+            "text": "越南"
+        },
+        {
+            "id": "countryCode3.WLF",
+            "text": "瓦利斯和富图纳”"
+        },
+        {
+            "id": "countryCode3.SAH",
+            "text": "西撒哈拉"
+        },
+        {
+            "id": "countryCode3.YEM",
+            "text": "也门"
+        },
+        {
+            "id": "countryCode3.ZMB",
+            "text": "赞比亚"
+        },
+        {
+            "id": "countryCode3.ZWE",
+            "text": "津巴布韦"
+        }
+    ]
+}
